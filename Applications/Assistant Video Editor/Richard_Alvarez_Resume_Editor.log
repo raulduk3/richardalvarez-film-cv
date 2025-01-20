@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.1)  4 JAN 2025 17:51
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.1)  4 JAN 2025 17:55
  restricted system commands enabled.
-**Richard_Alvarez_Resume.tex
-(./Richard_Alvarez_Resume.tex
+**Richard_Alvarez_Resume_Editor.tex
+(./Richard_Alvarez_Resume_Editor.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
@@ -298,9 +298,9 @@ tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-(./Richard_Alvarez_Resume.aux)
-\openout1 = Richard_Alvarez_Resume.aux
+No file Richard_Alvarez_Resume_Editor.aux.
 
+\openout1 = Richard_Alvarez_Resume_Editor.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
@@ -312,7 +312,6 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 8.
-
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -328,11 +327,9 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 Package hyperref Info: Link coloring OFF on input line 28.
-
-(./Richard_Alvarez_Resume.out) (./Richard_Alvarez_Resume.out)
 \@outlinefile=\write3
 
-\openout3 = Richard_Alvarez_Resume.out
+\openout3 = Richard_Alvarez_Resume_Editor.out
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -400,7 +397,7 @@ LaTeX Font Warning: Font shape `TU/Avenir(0)/m/sc' undefined
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Richard_Alvarez_Resume.aux)
+(./Richard_Alvarez_Resume_Editor.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -409,24 +406,31 @@ L3 programming layer <2024-02-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Richard_Alvarez_Resume.out' has not changed.
 
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Warning: File `Richard_Alvarez_Resume_Editor.out' has ch
+anged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Richard_Alvarez_Resume_Editor.out':
+
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10868 strings out of 476447
+ 10851 strings out of 476447
  125027,1977958 words of node,token memory allocated
  436 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 54 glue_spec,
  4 attribute_list, 1 write nodes
    avail lists: 1:3,2:288,3:309,4:10,5:315,6:60,7:7525,8:2,9:288,10:9,11:609
- 32846 multiletter control sequences out of 65536+600000
+ 32844 multiletter control sequences out of 65536+600000
  31 fonts using 2203783 bytes
- 79i,5n,89p,331b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,89p,338b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Avenir.ttc></System/Library/Fonts/Avenir.ttc></System/Lib
 rary/Fonts/Avenir.ttc>
-Output written on Richard_Alvarez_Resume.pdf (1 page, 49513 bytes).
+Output written on Richard_Alvarez_Resume_Editor.pdf (1 page, 49513 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream

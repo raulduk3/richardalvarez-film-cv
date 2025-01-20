@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.1)  4 JAN 2025 17:51
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.1)  22 DEC 2024 15:52
  restricted system commands enabled.
 **Richard_Alvarez_Resume.tex
 (./Richard_Alvarez_Resume.tex
@@ -409,27 +409,46 @@ L3 programming layer <2024-02-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Richard_Alvarez_Resume.out' has not changed.
 
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Warning: File `Richard_Alvarez_Resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Richard_Alvarez_Resume.out':
+(rerunfilecheck)             Before: B3061AC37FF4E90BCC41CC1E266DB081;773
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10868 strings out of 476447
+ 10886 strings out of 476447
  125027,1977958 words of node,token memory allocated
  436 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 54 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:3,2:288,3:309,4:10,5:315,6:60,7:7525,8:2,9:288,10:9,11:609
- 32846 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:410,3:339,4:8,5:321,6:75,7:6883,8:2,9:369,10:7,11:576
+ 32857 multiletter control sequences out of 65536+600000
  31 fonts using 2203783 bytes
- 79i,5n,89p,331b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,89p,335b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'section.7'
+
+warning  (pdf backend): unreferenced destination with name 'section.6'
+
+warning  (pdf backend): unreferenced destination with name 'section.5'
+
+warning  (pdf backend): unreferenced destination with name 'section.4'
+
+warning  (pdf backend): unreferenced destination with name 'section.3'
+
+warning  (pdf backend): unreferenced destination with name 'section.2'
+
+warning  (pdf backend): unreferenced destination with name 'section.1'
 </System/Library/Fonts/Avenir.ttc></System/Library/Fonts/Avenir.ttc></System/Lib
 rary/Fonts/Avenir.ttc>
-Output written on Richard_Alvarez_Resume.pdf (1 page, 49513 bytes).
+Output written on Richard_Alvarez_Resume.pdf (1 page, 50009 bytes).
 
-PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 131072)
+ 57 words of extra memory for PDF output out of 10000 (max. 100000000)
 
